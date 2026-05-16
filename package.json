@@ -35,7 +35,6 @@
     ]
   },
   "devDependencies": {
-   "deploy": "gh-pages -d build --force"
-    // "gh-pages": "^6.3.0"
+    "gh-pages": "^6.3.0"
   }
 }
