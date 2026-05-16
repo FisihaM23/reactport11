@@ -1,0 +1,8 @@
+Place your images here:
+- muler.jpg (your profile photo)
+- system.jpg (ATM project screenshot)
+- library.png (Library project screenshot)
+
+Recommended image sizes:
+- Profile photo: 350x350px (square, will be displayed as circle)
+- Project images: 600x400px (landscape orientation)
