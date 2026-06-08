@@ -119,7 +119,7 @@ export default function Contact() {
                             <i className="fab fa-linkedin-in"></i>
                         </a>
                         <a
-                            href="https://github.com/befather7-sudo"
+                            href="https://github.com/FisihaM23/reactport11"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="social-link github"

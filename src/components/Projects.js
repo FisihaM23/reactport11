@@ -11,7 +11,7 @@ const projects = [
             "A C++ project implementing deposit, withdrawal, fund transfer, balance checking, and transaction history features.",
         img: atmImg,
         icon: "fa-credit-card",
-        link: "https://github.com/befather7-sudo/ATM-System",
+        link: "https://github.com/FisihaM23/ATM-System",
         pdfLink: atmPdf,
     },
     {
@@ -20,7 +20,7 @@ const projects = [
             "A Java-based system allowing book and magazine management, member registration, and transaction tracking.",
         img: libraryImg,
         icon: "fa-book",
-        link: "https://github.com/befather7-sudo/Library-System",
+        link: "https://github.com/FisihaM23/Library-System",
         pdfLink: javaPdf,
     },
     {
